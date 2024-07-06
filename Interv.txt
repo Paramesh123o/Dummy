@@ -1,0 +1,79 @@
+Div, Span, List Tags Notes : -
+
+	The ` <div> ` tag is a block-level element used to logically group and structure 
+	content within an HTML document.
+	It doesn't have any inherent meaning on its own and is primarily used for 
+	styling purposes or to create divisions within a webpage.
+
+Attributes and Usage : -
+	
+Attributes : -
+	 Common attributes include ` id ` (for uniquely identifying the element), ` class ` (for applying CSS styles),
+	 and ` style ` (for inline CSS).
+Usage : -
+
+> Grouping content : -
+	` <div> ` can wrap around sections of content to apply CSS styles or JavaScript functionality to them as a unit.
+
+> Layout : -
+	 Used for creating columns or sections in a web layout.
+
+> Semantic HTML : -
+	 When more appropriate semantic tags like ` <article> `, ` <section> `, ` <header> `,  ` <footer> `
+	, etc., are not suitable.
+
+2 ) ` <span> ` : -
+	The ` <span> ` tag is an inline element used to apply styles to a specific section of text or 
+	inline content within a larger block. 
+	It does not add any additional space or line breaks by default.
+
+Attributes and Usage : -
+
+*  > Attributes : - Similar to ` <div> `, it commonly uses ` id `, ` class `, and ` style ` attributes.
+
+*  > Usage : -
+
+> Inline styling : -
+	 Apply CSS styles (like color, font-size) to specific words or phrases within a paragraph.   
+
+> JavaScript manipulation : -
+	 Use ` <span> ` to manipulate or target specific parts of text using JavaScript.
+
+> Accessibility : -
+	 When styling inline text that requires more precision than what paragraph-level 
+	tags like ` <p> ` provide.
+
+3 ) Lists ( ` <ul> `, ` <ol> `, ` <li> `)
+	Lists in HTML are used to present information in an organized manner.
+	There are two main types of lists : -
+	 unordered lists ( ` <ul> ` ) and ordered lists ( ` <ol> ` ). List items ( ` <li> ` ) are used
+	 within both  ` <ul>  ` and  ` <ol> ` to define each item in the list.
+
+Attributes & Usage : -
+
+*  > Attributes : -
+	` <ul> ` and ` <ol> ` typically use ` type ` (for changing the type of bullet or numbering) 
+	and ` start ` (for specifying the starting number of an ordered list).
+
+*  > Usage : -
+
+> ` <ul> ` (Unordered List) : -
+	 Use for items that do not have a specific order or sequence.
+
+> ` <ol> ` (Ordered List) : -
+	 Use when items need to be presented in a specific numerical or alphabetical order.
+
+> ` <li> ` (List Item) : -
+	 Each ` <li> ` tag represents a single item within the list.
+
+Summary : -
+	
+>  ` <div> ` is a block-level element for grouping content and applying styles.
+
+> ` <span> ` is an inline element for styling specific parts of text or inline content.
+
+>    Lists ( ` <ul> `, ` <ol> `, ` <li> `) are used for presenting information in an organized manner, 
+      either unordered or ordered.
+
+	These elements are fundamental in structuring and styling content within HTML documents, 
+	providing flexibility and organization to webpages.
