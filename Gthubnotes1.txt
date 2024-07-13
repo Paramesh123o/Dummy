@@ -1,0 +1,56 @@
+Code Repository : -
+	it is a memory that stores all our project files.
+
+>	 it can stores files like .java, .html, .css, .js, .properties, .xml ...etc 
+   	in simple, all types of files which are used in the project.
+
+>	Different code repository tools are : SVN,Github,bitbucket etc.,
+
+--Git Operations : -
+
+> ADD : -
+	we need to write code in workspaces (Projects) and test, then move files to Stage area (Verification area).
+
+> Commit : -
+	Sending files from stage area to Local Repository.
+
+> PUSH : -
+	Sending our files from local area to remote repository After Coding and Unit Testing , 
+	We can send our Local files to Github.
+
+> PULL : -
+	Fetching files from Remote repository to our local repository
+	 We can fetch other module files written by other devolepers. 
+
+> Merge / Rebase : -
+	Update files from Local Repository (. git) to workspace.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+One Time Setup : -
+	a. New Gmail account
+	Gmail : 
+	parameswar@gnail.com
+	Pwd : 
+	MMMMMg
+
+b . Github account (Register)
+	https://github.com/
+	applicationjson
+	MMMMMg
+c . Login
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Step # 1 : Create one remote repository (Project space)
+https://github.com/<username>/<repositoryName>.git
+https://github.com/application.json/SpringBootTestApp.git
+
+Step # 2 : Create one local repository
+=> Open STS/Eclipse 
+=> Create one Project and write code files
+=> Git Views :  > Window > Show View > Other > Search 'Git' > Select Git Staging and Git Repository
+
+Step # 3 : Perform Operations.
+
+https://www.facebook.com/groups/thejavatemple/
+     
