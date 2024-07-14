@@ -1,0 +1,10 @@
+{
+    "Special features":["Automatic shut-off","Boil Dry Protection",
+                       "Cordless","Concealed Healing",
+                        "DoubleWall","Foldable","Heat Resistant Handle"],
+    "Height base to top":[Upto 19.9cm,20.0 to 22.9cm,23.0 to 24.9cm, 25.0cm & above ],
+    "Length long horizontaledge":[Up to 14.9cm, 15.0 to 17.9cm, 18.0 to 19.9cm, 20.0 to 22.9 cm, 25.0 cm & above],
+    "width shorter horizontal edge" : [Upto 12.9cm, 13.0 to 14.9 cm, 15.0 to 17.9cm, 18.0 to 19.9 cm, 20.0cm & above],
+    "Material Features":"Non-toxic",
+    "Made for Amazon": "Made for Amazon"                     
+}
