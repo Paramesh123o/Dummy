@@ -1,0 +1,9 @@
+{
+    "Firstname":"venkat",
+    "Lastname":"sai",
+    "Department":["Excise","Electricity","Education"],
+    "Manager":["Department manager","Executive chairman"],
+    "haveyoutravelanywhere":true,
+    "DepatureorArrival":"no i am not go any where"
+
+}
