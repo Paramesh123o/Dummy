@@ -1,0 +1,23 @@
+{
+   "Nationality":["United States","Sanfrancisco"]
+  "Identification No":4432,
+  "Passport No":54325,
+  "Bank Account Number":BNK9876543210,
+  "Private Address":["Wilson park Road","Third lane","Hno-1-2-3"],
+  "Emergency Contact":0862-6213456,
+  "Emergency Phone":9888777111,
+  "Km home-work":8km,
+  "Gender":["Male","Female"],
+  "Marital Status":["Married","Unmarried"],
+  "Number of Children":0,
+  "Date of Birth":12-August-1992,
+  "Place of Birth":"Chicago",
+  "Country of Birth":["America","Italy","France"],
+  "Visa No":"USA762a",
+  "Work Permit No":"UsMSt342",
+  "Visa Expire Date":14-October-2025,
+  "Certificate level:["Under Graduate","Masters"],
+  "Field of Study":"Aeronatical",
+  "School":"Dr.Vincents Institute of Education",
+  "Employee Documents":"Jennifer.Docx"
+}
